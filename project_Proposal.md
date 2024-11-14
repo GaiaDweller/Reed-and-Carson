@@ -1,6 +1,6 @@
 # PROJECT PROPOSAL : A-Steroids
 ### Team Members : Reed Stewart, Carson Kasper
-# Client : Arson
+# Client : Arson Development
 ### Date: November 14th, 2024
 
 
