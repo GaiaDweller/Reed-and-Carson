@@ -1,15 +1,70 @@
-# Requirements and Specifications
+# Requirements Specification: A-Steriods
 
-## The Game  
-The game will be a simple top-down shooter where the player is able to control the orientation and position of the main character (a spaceship). Asteroids will be slowly heading toward the player from all directions, and the player will be able to shoot them to make them disappear. If one of these asteroids hits the player, they will lose a life. There will also be power-ups the player will be able to collect by touching them, which will give them abilities. These will include a spread shot, a clear-all-asteroids-on-screen ability, and a faster rate of fire. Each of these will need to last ten seconds. Finally, the player will have three lives (they can be hit three times before losing).  
+Game Name: A-Steriods
+Team Members: Carson Kasper, Reed Stewart
+Client: Arson Developoment
+Date: November 14th 2024
 
-## Requirements  
-This game will need to be formatted as an app we can put out on storefronts such as the Apple App Store, Google Play Store, Steam Store, and the Microsoft Store. It will need to be formatted for both computers and phones. This will require two different builds of the game with different controller schemes. We also want the game to keep track of your highest score, and we want a global leaderboard that you can submit your scores to, so our players can compare their scores.  
+## Game Overview
 
-## Specifications  
-For our PC controller scheme, WASD will control location, and it will not be completely independent from orientation; orientation will be decided based on the mouse's location. The spaceship will always face toward the mouse, and the player can use the left mouse button to fire. For the mobile version, a digital control stick will need to be implemented to control location, and the ship will face whatever direction the other finger is pointing. The ship will also automatically fire when you have your right finger on the screen. We will need to have a small server to store the game leaderboards, and each copy of the game will need a small file to save its current high score.
+Brief Description: Space Shooter is a top-down arcade-style shooter where players pilot a spaceship, avoiding and destroying incoming asteroids while collecting power-ups.
+Main Goal: The main objective is to survive as long as possible by shooting asteroids, collecting power-ups, and achieving a high score. Players lose when they run out of lives.
 
+## Functional Requirements
 
+### Core Features:
+Players control the spaceship's position and orientation.
+The game tracks and displays the player’s highest score.
+Players can submit scores to a global leaderboard.
+Power-ups provide temporary enhancements, such as spread shots, screen-clearing abilities, and increased fire rates.
+
+### User Interactions:
+PC Version: Movement via WASD; orientation determined by mouse position. Left mouse button fires.
+Mobile Version: Movement controlled by a digital joystick; the ship orients towards the second finger on the screen and fires automatically when touched.
+
+## Non-Functional Requirements
+
+### Usability:
+The game should have intuitive controls and a clear interface for power-up durations and scores.
+Easy-to-understand mechanics, suitable for quick play sessions.
+
+### Performance:
+Consistent frame rate of at least 60 FPS.
+Minimal load times (under 5 seconds).
+Smooth performance with multiple objects and effects on screen.
+
+### Cross-Platform Compatibility:
+The game will support PC and mobile platforms with platform-specific control schemes.
+It must run seamlessly on different devices and screen sizes.
+
+## Design Requirements
+
+### Graphics and Visuals:
+Modern yet simple 2D graphics with smooth animations.
+Asteroids and power-ups visually distinct, with clear indicators for effects and durations.
+
+### Audio:
+Background music that fits the space theme.
+Sound effects for shooting, asteroid destruction, collecting power-ups, and losing lives.
+
+## Data Requirements
+
+### What Data Needs to be Saved or Tracked:
+High scores and the player's current progress (e.g., lives remaining).
+Global leaderboard data.
+
+### How Will the Data be Stored:
+High scores will be stored locally and synced to the leaderboard via a server.
+
+## Collaboration with Client
+
+### How Will You Gather Feedback from the Client in Each Sprint:
+Regular playtesting sessions and surveys.
+Direct meetings to gather input on mechanics and aesthetics.
+
+### How Will You Ensure the Game is Developing According to the Client’s Needs:
+Frequent progress demos at major milestones.
+Iterative development with continuous feedback integration.
 
 
 
