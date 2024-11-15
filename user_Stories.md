@@ -31,7 +31,7 @@ As a player, I want to collect power-ups, so that I can gain enhancements like i
 ### Acceptance Criteria
 
 - The player must be able to visually identify and collect power-ups on the screen.
-- Power-ups must provide temporary benefits and have a visual indicator for the duration of the effect.
+- Power-ups must provide benefits and have a visual indicator for the effect.
 
 ## User Story 4: Score Tracking
 
