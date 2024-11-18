@@ -112,7 +112,7 @@
             <mxPoint x="595" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aln4CxobiZYO_zKptCCv-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-26" target="Aln4CxobiZYO_zKptCCv-40">
+        <mxCell id="Aln4CxobiZYO_zKptCCv-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-53" target="Aln4CxobiZYO_zKptCCv-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Aln4CxobiZYO_zKptCCv-26" value="Press Any Key to Start&lt;div&gt;(Phone taps screen)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -194,6 +194,18 @@
         </mxCell>
         <mxCell id="Aln4CxobiZYO_zKptCCv-46" value="If Score &amp;gt;= 500:&lt;div&gt;Spawn Enemy Ships&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="767" y="728" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-26" target="Aln4CxobiZYO_zKptCCv-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="570" as="sourcePoint" />
+            <mxPoint x="535" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-53" value="Move Functions Initialized" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="613" width="88" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="655" width="26" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
