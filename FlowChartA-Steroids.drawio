@@ -58,16 +58,28 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-12" target="Aln4CxobiZYO_zKptCCv-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Aln4CxobiZYO_zKptCCv-12" value="Generate Map" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="380" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-13" target="Aln4CxobiZYO_zKptCCv-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Aln4CxobiZYO_zKptCCv-13" value="Generate Ship" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Aln4CxobiZYO_zKptCCv-14" value="Generate Health Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Aln4CxobiZYO_zKptCCv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-14" target="Aln4CxobiZYO_zKptCCv-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-14" value="Generate Leaderboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="380" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Aln4CxobiZYO_zKptCCv-15" value="Start Asteroids" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Aln4CxobiZYO_zKptCCv-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-15" target="Aln4CxobiZYO_zKptCCv-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-15" value="Generate Health Bar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="380" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Aln4CxobiZYO_zKptCCv-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -100,29 +112,8 @@
             <mxPoint x="595" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Aln4CxobiZYO_zKptCCv-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-26" target="Aln4CxobiZYO_zKptCCv-12">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="325" y="480" as="sourcePoint" />
-            <mxPoint x="370" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Aln4CxobiZYO_zKptCCv-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-26" target="Aln4CxobiZYO_zKptCCv-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="415" y="480" as="sourcePoint" />
-            <mxPoint x="335" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Aln4CxobiZYO_zKptCCv-23" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-26" target="Aln4CxobiZYO_zKptCCv-14">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="505" y="480" as="sourcePoint" />
-            <mxPoint x="345" y="450" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Aln4CxobiZYO_zKptCCv-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-26" target="Aln4CxobiZYO_zKptCCv-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="595" y="480" as="sourcePoint" />
-            <mxPoint x="355" y="460" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-26" target="Aln4CxobiZYO_zKptCCv-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Aln4CxobiZYO_zKptCCv-26" value="Press Any Key to Start&lt;div&gt;(Phone taps screen)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="510" width="120" height="60" as="geometry" />
@@ -177,6 +168,32 @@
         </mxCell>
         <mxCell id="Aln4CxobiZYO_zKptCCv-39" value="Main Menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="516" y="172" width="69" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-43" target="Aln4CxobiZYO_zKptCCv-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720.5" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-40" value="Destroy Asteroid/Enemy?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="601" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-40" target="Aln4CxobiZYO_zKptCCv-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="632" y="618" as="sourcePoint" />
+            <mxPoint x="720.5" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-43" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="646" y="603" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Aln4CxobiZYO_zKptCCv-45" target="Aln4CxobiZYO_zKptCCv-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-45" value="Leader Board +=1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="588" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Aln4CxobiZYO_zKptCCv-46" value="If Score &amp;gt;= 500:&lt;div&gt;Spawn Enemy Ships&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="728" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
