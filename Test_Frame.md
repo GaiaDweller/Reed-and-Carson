@@ -1,4 +1,5 @@
 # 1. Unit Testing the game mechanics
+2. Logic Testing the Game Rules and Calculations (Here aswell)
 ### Movement: 
 - Test to see if all of the keys work together, such as w and d making you go up and right at the same time, do for all keys.
 - If the player hits a wall, the wall will teleport them to the other side of the map, same y coordinates
