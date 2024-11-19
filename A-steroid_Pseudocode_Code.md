@@ -5,7 +5,7 @@ Include a Random library
 Include a Game Development Library  
 
 Initialize `player_coordinates` as `[0, 0]`  
-Initialize `difficulty` as `1`  
+Initialize `difficulty` as `1`, `2`, or `3` depending on the players selection.
 Initialize `player_angle` as `0`  
 Initialize `player_hits` as `0`  
 
